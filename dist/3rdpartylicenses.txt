@@ -156,6 +156,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+@ngx-translate/core
+MIT
+
+@ngx-translate/http-loader
+MIT
+
 leaflet
 BSD-2-Clause
 Copyright (c) 2010-2019, Vladimir Agafonkin

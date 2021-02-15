@@ -1,0 +1,46 @@
+{
+  "navigation": {
+    "main": {
+      "list": "Events list",
+      "map": "Protest's map",
+      "media": "Media",
+      "about": "About",
+      "toMain": "To main page",
+      "zen": "Zen mode",
+      "sendEvent": "Send event",
+      "timeline": "Timeline"
+    }
+  },
+  "display": {
+    "protestsMap": "Map of protests"
+  },
+  "list": {
+  },
+  "map": {
+    "cities": "Cities",
+    "city": "City",
+    "participants": "Participants",
+    "detainees": "Detainees",
+    "countOfDetainees": "Count of detainees",
+    "countOfProtesters": "Count of protesters"
+  },
+  "media": {
+    "tgHeader": "Telegram channels",
+    "tgChannelTitle": "Channel title",
+    "countOfFollowers": "Count of followers"
+  },
+  "zen": {
+
+  },
+  "about": {
+    "description": "Project of Russia",
+    "theFirstPublication": "The first publication on 01.24.2021",
+    "version":"Version:"
+  },
+  "common": {
+    "more": "More",
+    "title": "Title",
+    "date": "Date",
+    "move": "Move to"
+  }
+}

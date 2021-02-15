@@ -1,0 +1,46 @@
+{
+  "navigation": {
+    "main": {
+      "list": "Список событий",
+      "map": "Карта протестов",
+      "media": "Медиа ресурсы",
+      "about": "О проектсе",
+      "toMain": "На главную",
+      "zen": "Дхен режим",
+      "sendEvent": "Прислать событие",
+      "timeline": "Временная шкала"
+    }
+  },
+  "display": {
+    "protestsMap": "Карта протестов"
+  },
+  "list": {
+  },
+  "map": {
+    "cities": "Городов",
+    "city": "Город",
+    "participants": "Участников",
+    "detainees": "Задержанных",
+    "countOfDetainees": "Количество задержанных",
+    "countOfProtesters": "Количество протестующих"
+  },
+  "media": {
+    "tgHeader": "Телеграм каналы",
+    "tgChannelTitle": "Название канала",
+    "countOfFollowers": "Число подписчиков"
+  },
+  "zen": {
+
+  },
+  "about": {
+    "description": "Проект о России",
+    "theFirstPublication": "Первая публикация 24.01.2021",
+    "version":"Версия:"
+  },
+  "common": {
+    "more": "Подробнеее",
+    "title": "Название",
+    "date": "Дата",
+    "move": "Перейти"
+  }
+}
